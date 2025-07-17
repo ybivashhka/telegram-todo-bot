@@ -43,7 +43,7 @@
 
    ```bash
     git clone https://github.com/ваш_логин/telegram-todo-bot.git
-    cd telegram-todo-bot```
+    cd telegram-todo-bot
 
 
 2. Установите зависимости
